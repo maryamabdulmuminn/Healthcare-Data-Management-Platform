@@ -11,3 +11,5 @@ N
 tests/data-marketplace.test.ts,d/c/dc457c08f3219b9d8138e4efadc1434a270181c1
 N
 contracts/iot-integration.clar,d/5/d53452ec45c20956d85d24ae67d8a59474ad4599
+M
+tests/iot-integration.test.ts,c/b/cb7c60aba045aa478fec259a880227d84f9a1437
